@@ -1,8 +1,7 @@
 package com.aakash.bank;
-
 import java.util.Scanner;
 
-public class BankAccount {
+abstract class BankAccount {
 	
 	//static variable
 	private static int autoAccountNo; 
@@ -10,7 +9,7 @@ public class BankAccount {
 	//instance variable /class variable
 	private int accountNo;
 	private String accountHolderName;
-    private double accountBalance;
+    protected double accountBalance;
    public int amount;
     
     
@@ -76,22 +75,6 @@ public class BankAccount {
  }
 }
 
-public class Account{
- 
-	
-	public static void main(String[] args) {
-		BankAccount b1=new BankAccount();
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the amount to check:");
-	
-		int amount=sc.nextInt();
-		
-		b1.withdraw(amount);
-		b1.deposit(amount);
-
-	}
-
-}
 
 	
 	
