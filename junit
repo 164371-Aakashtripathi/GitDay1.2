@@ -1,0 +1,43 @@
+package com.junit;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+public class MyTest {
+	
+   
+   @Test
+   public  void add(){
+	   int a=5;
+	   int b=5;
+	   int addition= a+b;
+	   assertEquals(10,addition);
+   }
+   
+   
+   
+   
+   @Test
+   public  void sub(){
+	   int a=5;
+	   int b=5;
+	   int substract= a-b;
+	   assertEquals(0,substract);
+   }
+   
+   @Test
+   public  void mul(){
+	   int a=5;
+	   int b=5;
+	   int multiply= a*b;
+	   assertEquals(25,multiply);
+   }
+   
+   
+   @Test
+   public  void div(){
+	   int a=5;
+	   int b=5;
+	   int division= a/b;
+	   assertEquals(1,division);
+   }
+   
+}
