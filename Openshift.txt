@@ -1,0 +1,32 @@
+Learning Material - UserName: tvadalia  - Password: Tejas123!    --->  https://training-lms.redhat.com
+Labs - UserName: tejas.vadalia-capgemini.com - Password: Tejas1234! --> https://labs.opentlc.com
+
+
+
+
+ssh satyendra.
+
+
+
+
+[2:58 PM] Sawant, Mihir
+ssh -i ~/.ssh/your_private_key_name mihir.sawant-capgemini.com@bastion.52e9.example.opentlc.com
+
+<https://teams.microsoft.com/l/message/19:237c29778abd44a280052aad326c2152@thread.skype/1549877297468?tenantId=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&amp;groupId=2171f277-102e-450d-9d22-771df37a5fb7&amp;parentMessageId=1549877297468&amp;teamName=CFSD-OpenShift-Oct-2018&amp;channelName=General&amp;createdTime=1549877297468>
+
+
+
+ssh -i ~/.ssh/id_rsa roshan.kanwal-c apgemini.com@bastion.4ab6.example.opentlc.com
+
+
+
+
+Learning Material - UserName: rkanwal- Password: roshan@123    --->  https://training-lms.redhat.com
+Labs - UserName: roshan.kanwal-capgemini.com - Password: R1o2s3han$ --> https://labs.opentlc.com
+
+
+
+[?2/?12/?2019 10:57 AM]  Sharma, Ashna:  
+https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkLP%3D40359570  
+ 
+https://training-lms.redhat.com/lmt/clmslearningpathdetails.prMain?in_sessionId=2J9J0JA11338091J&in_learningPathId=40359570 

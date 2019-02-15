@@ -1,0 +1,27 @@
+httpd server start/stop/restart
+
+dd= Delete
+i- insert
+esc
+:
+wq!
+
+mv= to change the name of file
+
+
+DOCKER==
+
+docker ps = TO GET THE CONTAINERS
+docker ps -a= TO GET ALL THE CONTAINERS
+docker run -p 9000:8080= TO ALLOCATE THE PORT
+docker -itd CONTAINERID= TO DELETE CONTAINERID
+docker exec -it CONTAINERID /bin/bash= TO USE DOCKER CONTAINERID
+docker pause CONTAINERID= TO PAUSE  CONTAINERID
+docker inspect CONTAINERID/IMAGEID
+docker info 
+
+docker commit <CONTAINERID> <yourname>/curl:1.0
+
+
+-p= used to assign a specific port
+-P= used to get the port automatically
